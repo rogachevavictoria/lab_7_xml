@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Taako>
+    <stat id = "1">
+        <sname>STR</sname>
+        <snum>10</snum>
+    </stat>
+    <stat id = "2">
+        <sname>CON</sname>
+        <snum>14</snum>
+    </stat>
+    <stat id = "3">
+        <sname>DEX</sname>
+        <snum>16</snum>
+    </stat>
+    <stat id = "4">
+        <sname>INT</sname>
+        <snum>20</snum>
+    </stat>
+    <stat id = "5">
+        <sname>WIS</sname>
+        <snum>12</snum>
+    </stat>
+    <stat id = "6">
+        <sname>CHA</sname>
+        <snum>10</snum>
+    </stat>
+</Taako>
+
+
